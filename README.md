@@ -1,7 +1,4 @@
-# DorraBoucharbia
+# Dorra Boucharbia
 
-### Projects 
+### My Projects 
 
-### Work Experience
-
-### Education
