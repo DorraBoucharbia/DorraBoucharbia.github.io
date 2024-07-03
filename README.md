@@ -1,4 +1,4 @@
-# AI Data Scientist
+# Data Scientist
 
 ### My Projects 
 
