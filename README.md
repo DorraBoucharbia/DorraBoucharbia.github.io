@@ -1,3 +1,9 @@
+## My Curriculum Vitae
+
+IN ENGLISH [Publication](/assets/MY CV English.pdf)
+
+IN FRENSH [Publication](/assets/MY CV Frensh.pdf.pdf)
+
 ## My Projects 
 
 **Healthcare Decision Support System**
@@ -39,3 +45,13 @@ Real-time monitoring enhances accountability and fosters a structured learning e
 By automating attendance processes, the system reduces administrative burden, minimizes errors, and ensures compliance, supporting academic excellence and administrative efficiency.
 
 HERE IS THE PROJECT [Publication](assets/home.html)
+
+## My Certificates
+
+**My Credly**
+
+HERE IS THE LINK [Publication](https://www.credly.com/users/dorra-boucharbia/badges)
+
+**My Google Certificates**
+
+HERE IS THE LINK [Publication](https://www.cloudskillsboost.google/public_profiles/904515a6-6d0d-4237-9966-ee9573113ec6)
