@@ -2,7 +2,7 @@
 
 IN ENGLISH [Publication](/assets/MYCVEnglish.pdf)
 
-IN FRENSH [Publication](/assets/MYCVFrensh.pdf.pdf)
+IN FRENSH [Publication](/assets/MYCVFrensh.pdf)
 
 ## My Projects 
 
