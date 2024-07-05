@@ -27,7 +27,7 @@ Emphasizing foundational theories and practical applications of deep learning in
 
 Advanced data cleaning and feature engineering refine the dataset for optimal model training, aiming to capture intricate market patterns. Through detailed exploratory analysis, the project uncovers trends and correlations, enriching predictive accuracy and market understanding in King County real estate.
 
-HERE IS THE PROJECT [Publication](assets/Real_Estate_Price_Prediction.ipynb)
+HERE IS THE PROJECT [Publication](assets/RealEstatePricePrediction.ipynb)
 
 **Online School Call Sheet**
 
