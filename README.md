@@ -17,7 +17,7 @@ I explored Pandas Series and DataFrame fundamentals, covering indexing, sorting,
 
 Additionally, I developed advanced data visualization techniques to create graphical representations of trends and insights.
 
-HERE IS THE PROJECT [Publication](assets/CryptocurrencyFinanceAndBanking.ipynb)
+HERE IS THE PROJECT [Publication](assets/Cryptocurrency.ipynb)
 
 **Real Estate Price Prediction**
 
