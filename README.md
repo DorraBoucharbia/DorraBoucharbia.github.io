@@ -29,3 +29,12 @@ Advanced data cleaning and feature engineering refine the dataset for optimal mo
 
 HERE IS THE PROJECT [Publication](assets/Real_Estate_Price_Prediction.ipynb)
 
+**Online School Call Sheet**
+
+The Online School Call Sheet system utilizes HTML5, CSS (Bootstrap), JavaScript, PHP (OOP) CRUD, SQL, and PDO to revolutionize attendance management in educational settings. It features secure user authentication, intuitive dashboards for attendance visibility, and robust class management tools. 
+
+Real-time monitoring enhances accountability and fosters a structured learning environment. 
+
+By automating attendance processes, the system reduces administrative burden, minimizes errors, and ensures compliance, supporting academic excellence and administrative efficiency.
+
+HERE IS THE PROJECT [Publication](assets/home.html)
