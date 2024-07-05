@@ -1,8 +1,8 @@
 ## My Curriculum Vitae
 
-IN ENGLISH [Publication](/assets/MY CV English.pdf)
+IN ENGLISH [Publication](/assets/MYCVEnglish.pdf)
 
-IN FRENSH [Publication](/assets/MY CV Frensh.pdf.pdf)
+IN FRENSH [Publication](/assets/MYCVFrensh.pdf.pdf)
 
 ## My Projects 
 
