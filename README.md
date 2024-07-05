@@ -1,3 +1,7 @@
+## My LinkedIn
+
+HERE IS THE LINK [Publication](https://www.linkedin.com/in/dorra-boucharbia-908b4b265/)
+
 ## My Curriculum Vitae
 
 IN ENGLISH [Publication](/assets/MYCVEnglish.pdf)
