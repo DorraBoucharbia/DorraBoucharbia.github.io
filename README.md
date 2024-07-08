@@ -1,6 +1,7 @@
 # AI And Data Science
 
 
+
 ## My LinkedIn
 
 HERE IS THE LINK [Publication](https://www.linkedin.com/in/dorra-boucharbia-908b4b265/)
@@ -29,7 +30,7 @@ Additionally, I developed advanced data visualization techniques to create graph
 
 HERE IS THE PROJECT [Publication](assets/Cryptocurrency.ipynb)
 
-**Finance with Power BI**
+**Finance With Power BI**
 
 In my journey into financial data analysis and visualization with Power BI, I effectively utilized Power Query for data cleansing and preparation, ensuring data integrity. I established relationships between disparate data files, fostering cohesion across sources, and created reference tables for seamless visualization adjustments.
 
