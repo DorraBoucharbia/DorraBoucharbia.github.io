@@ -10,7 +10,7 @@ HERE IS THE LINK [Publication](https://www.linkedin.com/in/dorra-boucharbia-908b
 
 IN ENGLISH [Publication](/assets/MYCVEnglish.pdf)
 
-IN FRENSH [Publication](/assets/Mon-CV-Français.pdf)
+IN FRENSH [Publication](/assets/Mon_CV_Français.pdf)
 
 ## My Certificates
 
