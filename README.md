@@ -8,9 +8,9 @@ HERE IS THE LINK [Publication](https://www.linkedin.com/in/dorra-boucharbia-908b
 
 ## My Curriculum Vitae
 
-IN ENGLISH [Publication](/assets/MYCVEnglish.pdf)
+IN ENGLISH [Publication](/assets/EnglishCV.pdf)
 
-IN FRENSH [Publication](/assets/Mon_CV_Français.pdf)
+IN FRENSH [Publication](/assets/FrançaisCV.pdf)
 
 ## My Certificates
 
