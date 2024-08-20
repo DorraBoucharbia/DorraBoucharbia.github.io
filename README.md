@@ -30,7 +30,7 @@ I designed and implemented a machine learning algorithm that continuously improv
 
 This innovation enhances the efficiency of the document management process and ensures better organization of information.
 
-HERE IS THE PROJECT [Publication](assets/)
+HERE IS THE PROJECT [Publication](assets/PowerGED.ipynb)
 
 **Cryptocurrency - Finance And Banking Analysis**
 
