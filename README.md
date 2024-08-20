@@ -20,6 +20,18 @@ IN FRENSH [Publication](/assets/FrançaisCV.pdf)
 
 ## My Projects 
 
+**Power GED**
+
+During my internship, I integrated NLP and OCR models into our "Electronic Document Management" (GED) application to automate the suggestion of relevant metadata when users upload files. 
+
+I developed a system capable of automatically detecting the type of document uploaded, such as an invoice, and analyzing its content to extract important data. The system then suggests appropriate metadata to the user. 
+
+I designed and implemented a machine learning algorithm that continuously improves based on user feedback. 
+
+This innovation enhances the efficiency of the document management process and ensures better organization of information.
+
+HERE IS THE PROJECT [Publication](assets/)
+
 **Cryptocurrency - Finance And Banking Analysis**
 
 Through this project, I mastered data analysis with Pandas in Python, focusing on cryptocurrencies and gaining skills applicable to finance and banking.
