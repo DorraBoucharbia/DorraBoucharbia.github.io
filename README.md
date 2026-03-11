@@ -7,9 +7,9 @@ HERE IS THE LINK [Publication](https://www.linkedin.com/in/dorra-boucharbia-908b
 
 ## My Curriculum Vitae
 
-IN ENGLISH [Publication](/assets/EnglishCV.pdf)
+IN ENGLISH [Publication](/assets/CV_26_Dorra_BoucharbiaM2Eng.pdf)
 
-IN FRENSH [Publication](/assets/FrançaisCV.pdf)
+IN FRENSH [Publication](/assets/CV_26_Dorra_BoucharbiaM2Fr.pdf)
 
 ## My Certificates
 
@@ -20,61 +20,25 @@ IN FRENSH [Publication](/assets/FrançaisCV.pdf)
 ## My Projects 
 
 **Power GED**
-
-I integrated NLP and OCR models into our "Electronic Document Management" (GED) application to automate the suggestion of relevant metadata when users upload files. 
-
-I developed a system capable of automatically detecting the type of document uploaded, such as an invoice, and analyzing its content to extract important data. The system then suggests appropriate metadata to the user. 
-
-I designed and implemented a machine learning algorithm that continuously improves based on user feedback. 
-
-This innovation enhances the efficiency of the document management process and ensures better organization of information.
-
+Intégration de modèles NLP et OCR dans l’application GED pour suggérer automatiquement des métadonnées lors de l’upload de fichiers. Détection automatique du type de document et extraction des données clés avec un algorithme ML qui s’améliore via le feedback utilisateur.
 HERE IS THE PROJECT [Publication](assets/PowerGED.ipynb)
 
 **Cryptocurrency - Finance And Banking Analysis**
-
-Through this project, I mastered data analysis with Pandas in Python, focusing on cryptocurrencies and gaining skills applicable to finance and banking.
-
-I explored Pandas Series and DataFrame fundamentals, covering indexing, sorting, selection, and manipulation. Advanced operations included filtering, cleaning, merging, encoding, scaling, slicing, concatenating, and multi-indexing. I also handled data exploration, group-by functionalities, date/time data, and text processing.
-
-Additionally, I developed advanced data visualization techniques to create graphical representations of trends and insights.
-
+Analyse de données de cryptomonnaies avec Pandas : manipulation de Series/DataFrame, nettoyage, fusion, encodage, visualisation avancée, et exploration de tendances applicables à la finance et la banque.
 HERE IS THE PROJECT [Publication](assets/Cryptocurrency.ipynb)
 
 **Real Estate Price Prediction**
-
-This project employs deep learning to predict home sale prices in King County, USA, from May 2014 to May 2015. Utilizing key features like bedrooms, bathrooms, views, and square footage, artificial neural networks achieve precise price predictions. 
-
-Emphasizing foundational theories and practical applications of deep learning in real estate analysis, the project focuses on rigorous data visualization to elucidate relationships between property features and prices. 
-
-Advanced data cleaning and feature engineering refine the dataset for optimal model training, aiming to capture intricate market patterns. Through detailed exploratory analysis, the project uncovers trends and correlations, enriching predictive accuracy and market understanding in King County real estate.
-
+Prédiction des prix immobiliers à King County avec un réseau de neurones, en utilisant le nettoyage avancé des données, l’ingénierie des features, et des visualisations pour capturer les tendances du marché.
 HERE IS THE PROJECT [Publication](assets/RealEstatePricePrediction.ipynb)
 
 **Online School Call Sheet**
-
-The Online School Call Sheet system utilizes HTML5, CSS (Bootstrap), JavaScript, PHP (OOP) CRUD, SQL, and PDO to revolutionize attendance management in educational settings. It features secure user authentication, intuitive dashboards for attendance visibility, and robust class management tools. 
-
-Real-time monitoring enhances accountability and fosters a structured learning environment. 
-
-By automating attendance processes, the system reduces administrative burden, minimizes errors, and ensures compliance, supporting academic excellence and administrative efficiency.
-
+Système de gestion de présence scolaire avec HTML5, CSS, JS, PHP (OOP), SQL et PDO : authentification sécurisée, dashboards intuitifs, et suivi en temps réel pour réduire les erreurs et automatiser l’administration.
 HERE IS THE PROJECT [Publication](assets/home.html)
 
 **Finance With Power BI**
-
-In my journey into financial data analysis and visualization with Power BI, I effectively utilized Power Query for data cleansing and preparation, ensuring data integrity. I established relationships between disparate data files, fostering cohesion across sources, and created reference tables for seamless visualization adjustments.
-
-I designed a suite of visualizations with a focus on aesthetics and functionality, optimizing user experience and comprehension. Upon completion, I published the report for public access and exported it to PDF format for broad compatibility. 
-
+Analyse et visualisation de données financières avec Power BI : nettoyage et préparation des données, création de relations et tables de référence, visualisations optimisées, publication et export PDF.
 HERE IS THE PROJECT [Publication](assets/Finance_with_Power_BI.pdf)
 
 **Healthcare Decision Support System**
-
-I meticulously corrected data errors, structured data for analysis, and uncovered insights for medical decision-making. Using advanced statistics, I translated findings into actionable reports for healthcare professionals. 
-
-I employed bootstrapping to diversify data for model training, enhancing generalization. Leveraging the Perceptron algorithm, I optimized decision boundaries for effective class separation. Feature selection via Recursive Feature Elimination improved model accuracy and interpretability. 
-
-This process ensured a robust healthcare decision support system delivering precise insights for enhanced patient care.
-
+Préparation et correction des données médicales, analyse statistique, bootstrapping pour l’entraînement, optimisation avec Perceptron et sélection de features pour un système d’aide à la décision précis et fiable.
 HERE IS THE PROJECT [Publication](/assets/Healthcare_Decision_Support_System.ipynb)
